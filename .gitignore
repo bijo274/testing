@@ -1,0 +1,3 @@
+# git will ignore mentioned directories
+git testing/*.pdf
+git testing/bcd.txt
